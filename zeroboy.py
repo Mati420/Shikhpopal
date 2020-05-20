@@ -28,7 +28,6 @@ def acak(b):
         d += '!'+w[random.randint(0,len(w)-1)]+i
     return cetak(d)
 
-
 def cetak(b):
     w = 'ahtdzjc'
     for i in w:
@@ -49,8 +48,8 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - AAHIL -OFFICAL------•◈•
-|__\~~) •||•RANA - RAJPUT---------------•◈•
+|__(~)    •||•THE - SHIKH -OFFICAL------•◈•
+|__\~~) •||•SOHIL - KANDAHARI---------------•◈•
 |__(-----\  •◈•------BLACK-TIGER--------•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
@@ -87,8 +86,8 @@ print  """\033[1;91m=======================================
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "Shikh"
+CorrectPassword = "Sohil"
 
 loop = 'true'
 while (loop == 'true'):
